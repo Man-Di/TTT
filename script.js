@@ -3,6 +3,7 @@
 // }
 
 function f1(a) {
+    while( )
     document.getElementById()
     console.log("privet Dimulik");
 }
