@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+
+th, td{
+    padding: 20px;
+    border: 2px solid royalblue;
+}
+
+input{
+    border: 3px solid;
+}
+
+/* tr {
+    width: 10px;
+    height: 10px;
+    border: 2px;
+}
+
+td{
+    width: 5px;
+    height: 5px;
+    border: 3px;
+} */
+
+
