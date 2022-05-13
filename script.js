@@ -29,3 +29,15 @@ function f2(a) {
 function f3() {
     console.log("сработала функция 3");
 }
+
+
+var salary = 100;
+var oldSalary = salary;
+// обе переменные указывают на одно и то же значение
+console.log(salary);
+console.log(oldSalary);
+salary = 200000;
+// oldSalary = salary;
+// значение salary стало 200000, а oldSalary осталось 100!
+console.log(salary);
+console.log(oldSalary);
